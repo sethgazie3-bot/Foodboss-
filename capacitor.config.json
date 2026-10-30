@@ -1,0 +1,8 @@
+{
+  "appId": "za.foodboss.app",
+  "appName": "FoodBoss",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
